@@ -1,0 +1,5 @@
+C:/Users/asus/Desktop/Omeryavus/Unity/Watch Color/.utmp/RelWithDebInfo/1h1l6s4q/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/Omeryavus/Unity/Watch Color/.utmp/RelWithDebInfo/1h1l6s4q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/asus/Desktop/Omeryavus/Unity/Watch Color/.utmp/RelWithDebInfo/1h1l6s4q/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/asus/Desktop/Omeryavus/Unity/Watch Color/.utmp/RelWithDebInfo/1h1l6s4q/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/Omeryavus/Unity/Watch Color/.utmp/RelWithDebInfo/1h1l6s4q/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

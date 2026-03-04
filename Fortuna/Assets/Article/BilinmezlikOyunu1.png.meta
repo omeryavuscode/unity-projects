@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 24be98099e1e51e4c8c5a517c72cc4e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8673248308858541901
+    second: BilinmezlikOyunu1_0
+  - first:
+      213: -1815340919560987635
+    second: BilinmezlikOyunu1_1
+  - first:
+      213: -4373714387712352215
+    second: BilinmezlikOyunu1_2
+  - first:
+      213: 7012804467886771432
+    second: BilinmezlikOyunu1_3
+  - first:
+      213: 6465371883299397919
+    second: BilinmezlikOyunu1_4
+  - first:
+      213: 2422188418420404456
+    second: BilinmezlikOyunu1_5
+  - first:
+      213: 5717002659869624647
+    second: BilinmezlikOyunu1_6
+  - first:
+      213: 4723033530009031010
+    second: BilinmezlikOyunu1_7
+  - first:
+      213: -6323388840184848414
+    second: BilinmezlikOyunu1_8
+  - first:
+      213: -5800976748035748466
+    second: BilinmezlikOyunu1_9
+  - first:
+      213: -8954489291276915920
+    second: BilinmezlikOyunu1_10
+  - first:
+      213: 3592487635328213969
+    second: BilinmezlikOyunu1_11
+  - first:
+      213: 703890808796669183
+    second: BilinmezlikOyunu1_12
+  - first:
+      213: -8826222564579481035
+    second: BilinmezlikOyunu1_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3160
+        width: 689
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8aabdad9e62a780800000000000000
+      internalID: -8673248308858541901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_1
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3560
+        width: 259
+        height: 781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c165f3d0d9ec6e0800000000000000
+      internalID: -1815340919560987635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2904
+        width: 976
+        height: 1532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e363ffe17d43c0800000000000000
+      internalID: -4373714387712352215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_3
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 2975
+        width: 961
+        height: 1455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecc9a3128c725160800000000000000
+      internalID: 7012804467886771432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2460
+        width: 338
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11ebdc097d99b950800000000000000
+      internalID: 6465371883299397919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2628
+        width: 338
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0730388875d9120800000000000000
+      internalID: 2422188418420404456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_6
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2448
+        width: 472
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490e7111afd65f40800000000000000
+      internalID: 5717002659869624647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_7
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 2455
+        width: 234
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261927ac8f59b8140800000000000000
+      internalID: 4723033530009031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 960
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdc144a5fce38a0800000000000000
+      internalID: -6323388840184848414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_9
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 421
+        width: 954
+        height: 1557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d470fe16ace7fa0800000000000000
+      internalID: -5800976748035748466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_10
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 567
+        width: 977
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b6668be634bb380800000000000000
+      internalID: -8954489291276915920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 512
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3a8b378741bd130800000000000000
+      internalID: 3592487635328213969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_12
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 11
+        width: 155
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ecf216f8b4c900800000000000000
+      internalID: 703890808796669183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BilinmezlikOyunu1_13
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 0
+        width: 328
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ae3b14755f28580800000000000000
+      internalID: -8826222564579481035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BilinmezlikOyunu1_0: -8673248308858541901
+      BilinmezlikOyunu1_1: -1815340919560987635
+      BilinmezlikOyunu1_10: -8954489291276915920
+      BilinmezlikOyunu1_11: 3592487635328213969
+      BilinmezlikOyunu1_12: 703890808796669183
+      BilinmezlikOyunu1_13: -8826222564579481035
+      BilinmezlikOyunu1_2: -4373714387712352215
+      BilinmezlikOyunu1_3: 7012804467886771432
+      BilinmezlikOyunu1_4: 6465371883299397919
+      BilinmezlikOyunu1_5: 2422188418420404456
+      BilinmezlikOyunu1_6: 5717002659869624647
+      BilinmezlikOyunu1_7: 4723033530009031010
+      BilinmezlikOyunu1_8: -6323388840184848414
+      BilinmezlikOyunu1_9: -5800976748035748466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

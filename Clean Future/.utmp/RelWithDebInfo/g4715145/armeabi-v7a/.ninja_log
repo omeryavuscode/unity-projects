@@ -1,0 +1,5 @@
+# ninja log v5
+111	245	7175091263328908	C:/Users/asus/Desktop/Omeryavus/Unity Project/Clean Future/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g4715145/obj/armeabi-v7a/libswappywrapper.so	e3cede2473891275
+0	109	7175091262368666	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	80104b190e28d98a
+1	105	7175094908586556	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	80104b190e28d98a
+105	233	7175094909496764	C:/Users/asus/Desktop/Omeryavus/Unity Project/Clean Future/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g4715145/obj/armeabi-v7a/libswappywrapper.so	e3cede2473891275

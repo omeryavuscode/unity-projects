@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0618: Tür veya üye artık kullanılmıyor
+dotnet_diagnostic.CS0618.severity = suggestion
